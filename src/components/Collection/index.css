@@ -1,0 +1,44 @@
+.first-container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 80px;
+}
+.filter {
+  display: flex;
+  flex-direction: row;
+}
+.filters {
+  border: 2px solid #dddddd;
+  background-color: transparent;
+  margin-left: 10px;
+  border-radius: 20px;
+  padding: 5px;
+  font-weight: 300;
+  font-size: 14px;
+  font-family: 'Roboto';
+  width: max-content;
+}
+.bottom {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 30px;
+}
+.vl {
+  height: 45px;
+  color: #dddddd;
+  margin-left: 10px;
+  background-color: #dddddd;
+  width: 2px;
+}
+.slider-width-one {
+  height: 300px;
+}
+.slider-width {
+  width: 80%;
+  margin-left: 30px;
+  margin-right: 100px;
+}
+.slick-slide {
+  margin-left: 5px;
+}

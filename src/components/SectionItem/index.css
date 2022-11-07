@@ -1,0 +1,12 @@
+.section {
+  border: 2px solid #dddddd;
+  background-color: transparent;
+  border-radius: 20px;
+  padding: 5px;
+  font-weight: 300;
+  font-size: 14px;
+  font-family: 'Roboto';
+  width: max-content;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
